@@ -103,3 +103,5 @@ main
     width: 48%;
   }
 }
+body {overflow-x: hidden;
+}
